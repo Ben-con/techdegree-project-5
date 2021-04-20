@@ -26,6 +26,9 @@ input{
     width:100%;
     
 }
+figcaption{
+    display: none;
+}
 .main-grid{
     display: grid;
     grid-template-columns: 1fr 1fr;
