@@ -1,7 +1,7 @@
 
 
 baguetteBox.run('.gallery', {
-   buttons = Boolean || 'true'
+ const: buttons = Boolean | 'auto'
 });
 const search = new Filter('search', 'data-caption');
 
