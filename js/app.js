@@ -1,6 +1,9 @@
 
 
-
+baguetteBox.run('.gallery', {
+   buttons = Boolean || 'true'
+});
+const search = new Filter('search', 'data-caption');
 
 
 
